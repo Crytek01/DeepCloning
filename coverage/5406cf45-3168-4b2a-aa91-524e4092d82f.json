@@ -10,7 +10,7 @@
     {
       "functionName": "itDefinition",
       "ranges": [
-        { "startOffset": 10507, "endOffset": 11696, "count": 47 },
+        { "startOffset": 10507, "endOffset": 11696, "count": 43 },
         { "startOffset": 10726, "endOffset": 10778, "count": 0 },
         { "startOffset": 10780, "endOffset": 10827, "count": 0 },
         { "startOffset": 11157, "endOffset": 11247, "count": 0 },
@@ -21,7 +21,7 @@
     {
       "functionName": "it",
       "ranges": [
-        { "startOffset": 11746, "endOffset": 12862, "count": 47 },
+        { "startOffset": 11746, "endOffset": 12862, "count": 43 },
         { "startOffset": 11813, "endOffset": 11929, "count": 0 },
         { "startOffset": 12033, "endOffset": 12077, "count": 0 },
         { "startOffset": 12143, "endOffset": 12176, "count": 0 },

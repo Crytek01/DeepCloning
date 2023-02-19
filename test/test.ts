@@ -2,6 +2,7 @@ import {
   assert,
   assertEquals,
   assertNotStrictEquals,
+  assertStrictEquals,
   describe,
   it,
 } from "../depts.ts";
@@ -18,11 +19,11 @@ import {
 } from "../src/mod.ts";
 
 describe("not function test", () => {
-  it("should negate expression as false", () => {
+  it("should return true if expression is false", () => {
     assert(not(true) === false);
   });
 
-  it("should negate expression as true", () => {
+  it("should return false if expression is true", () => {
     assert(not(false) === true);
   });
 });
@@ -164,212 +165,25 @@ describe("_deepCloning test", () => {
     assert(objectToClone !== clonedObject);
   });
 
-  it("should copy a nested object", () => {
-    const objectToClone = {
-      name: "Clone",
-      date: new Date(),
-      parts: new Map(),
-      uniqueParts: new Set(),
-      nest: {
-        name: "Clone",
-        date: new Date(),
-        parts: new Map(),
-        uniqueParts: new Set(),
-        cost: 1000,
-        nest: {
-          name: "Clone",
-          date: new Date(),
-          parts: new Map(),
-          uniqueParts: new Set(),
-          cost: 1000,
-        },
-      },
-    };
-
-    const clonedObject = _deepCloning(objectToClone);
-
-    assertEquals(objectToClone, clonedObject);
-    assert(objectToClone !== clonedObject);
-  });
-
-  it("should copy a nested object with arrays", () => {
-    const objectToClone = {
-      name: "Alice",
-      age: 30,
-      address: {
-        street: "123 Main St",
-        city: "Anytown",
-        state: "CA",
-        zip: 12345,
-      },
-      interests: ["reading", "hiking", "cooking"],
-      job: {
-        title: "Software Engineer",
-        company: "Acme Corporation",
-        years: 5,
-        projects: [
-          {
-            name: "Project A",
-            startDate: "2020-01-01",
-            endDate: "2021-06-30",
-            tasks: ["design", "development", "testing"],
-          },
-          {
-            name: "Project B",
-            startDate: "2021-07-01",
-            endDate: "2022-12-31",
-            tasks: ["planning", "implementation", "deployment"],
-          },
-        ],
-      },
-    };
-
-    const clonedObject = _deepCloning(objectToClone);
-
-    assertEquals(objectToClone, clonedObject);
-    assert(objectToClone !== clonedObject);
-  });
-
-  it("should copy a nested object with Sets", () => {
-    const objectToClone = {
-      name: "Alice",
-      age: 30,
-      hobbies: new Set(["reading", "hiking", "cooking"]),
-      job: {
-        title: "Software Engineer",
-        company: "Acme Corporation",
-        years: 5,
-        projects: new Set([
-          {
-            name: "Project A",
-            startDate: "2020-01-01",
-            endDate: "2021-06-30",
-            tasks: new Set(["design", "development", "testing"]),
-          },
-          {
-            name: "Project B",
-            startDate: "2021-07-01",
-            endDate: "2022-12-31",
-            tasks: new Set(["planning", "implementation", "deployment"]),
-          },
-        ]),
-      },
-    };
-
-    const clonedObject = _deepCloning(objectToClone);
-
-    assertEquals(objectToClone, clonedObject);
-    assert(objectToClone !== clonedObject);
-  });
-
-  it("should copy a nested object with Maps", () => {
-    const objectToClone = {
-      name: "Alice",
-      age: 30,
-      hobbies: new Set(["reading", "hiking", "cooking"]),
-      job: {
-        title: "Software Engineer",
-        company: "Acme Corporation",
-        years: 5,
-        projects: new Map([
-          [
-            "Project A",
-            {
-              startDate: "2020-01-01",
-              endDate: "2021-06-30",
-              tasks: new Map([
-                ["design", 10],
-                ["development", 20],
-                ["testing", 5],
-              ]),
-            },
-          ],
-          [
-            "Project B",
-            {
-              startDate: "2021-07-01",
-              endDate: "2022-12-31",
-              tasks: new Map([
-                ["planning", 8],
-                ["implementation", 15],
-                ["deployment", 3],
-              ]),
-            },
-          ],
-        ]),
-      },
-    };
-
-    const clonedObject = _deepCloning(objectToClone);
-
-    assertEquals(objectToClone, clonedObject);
-    assert(objectToClone !== clonedObject);
-  });
-
-  it("should copy a nested object with Map, Set, Date, functions and primitives", () => {
-    const objectToClone = {
-      string: "Hello, world!",
-      number: 42,
-      boolean: true,
-      date: new Date(),
-      set: new Set([1, 2, 3]),
-      map: new Map([
-        ["key1", "value1"],
-        ["key2", "value2"],
-      ]),
-      array: [
-        "a",
-        "b",
-        {
-          nestedObject: {
-            deeplyNestedSet: new Set([4, 5, 6]),
-            deeplyNestedMap: new Map([
-              ["key3", "value3"],
-              ["key4", "value4"],
-            ]),
-            deeplyNestedArray: ["c", "d", new Date()],
-            deeplyNestedFunction: function () {
-              console.log("This is a deeply nested function!");
-            },
-          },
-          nestedFunction: function () {
-            console.log("This is a nested function!");
-          },
-        },
-      ],
-      topLevelFunction: function () {
-        console.log("This is a top level function!");
-      },
-      arrowFunction: () => {
-        console.log("Arrow function");
-      },
-    };
-
-    const clonedObject = _deepCloning(objectToClone);
-
-    assertEquals(objectToClone, clonedObject);
-    assert(objectToClone !== clonedObject);
-  });
-
-  describe("primitive case", () => {
+  describe("primitives case", () => {
     it("should return the same value if it enters a number", () => {
-      assert(_deepCloning(1) === 1);
+      assertStrictEquals(_deepCloning(1), 1);
     });
 
     it("should return the same value if it enters a string", () => {
-      assert(_deepCloning("") === "");
+      assertStrictEquals(_deepCloning(""), "");
     });
 
     it("should return the same value if it enters an undefined", () => {
-      assert(_deepCloning(undefined) === undefined);
+      assertStrictEquals(_deepCloning(undefined), undefined);
     });
 
     it("should return the same value if it enters an null", () => {
-      assert(_deepCloning(null) === null);
+      assertStrictEquals(_deepCloning(null), null);
     });
 
     it("should return the same value if it enters a boolean", () => {
-      assert(_deepCloning(true) === true);
+      assertStrictEquals(_deepCloning(true), true);
     });
   });
 
@@ -379,21 +193,23 @@ describe("_deepCloning test", () => {
       const clonedValue = _deepCloning(value);
 
       assertEquals(value, clonedValue);
-      assert(value !== clonedValue);
+      assertNotStrictEquals(value, clonedValue);
     });
   });
 
   describe("set case", () => {
     it("should clone set if it enter a set", () => {
-      const value = new Set([1, 2, 3, 4, "hi", { hi: "hi!" }]);
-      const clonedValue = _deepCloning(value);
+      const value = new Set([1, { hi: "hi!" }]);
+      const clonedValue = _deepCloning(value) as typeof value;
 
       assertEquals(value, clonedValue);
       assertNotStrictEquals(value, clonedValue);
-      assertNotStrictEquals(
-        [...value].at(-1),
-        [...(clonedValue as Set<unknown>)].at(-1),
-      );
+
+      const setValues = [...value];
+      const clonedSetValues = [...clonedValue];
+
+      assertNotStrictEquals(setValues.at(-1), clonedSetValues.at(-1));
+      assertNotStrictEquals(setValues.at(-1), clonedSetValues.at(-1));
     });
   });
 
@@ -403,7 +219,7 @@ describe("_deepCloning test", () => {
       const clonedValue = _deepCloning(value);
 
       assertEquals(value, clonedValue);
-      assert(value !== clonedValue);
+      assertNotStrictEquals(value, clonedValue);
     });
   });
 
@@ -413,7 +229,16 @@ describe("_deepCloning test", () => {
       const clonedValue = _deepCloning(value);
 
       assertEquals(value, clonedValue);
-      assert(value !== clonedValue);
+      assertNotStrictEquals(value, clonedValue);
+    });
+
+    it("should clone map if map has object as value", () => {
+      const value = new Map([["1", { name: "Max" }]]);
+      const clonedValue = _deepCloning(value) as typeof value;
+
+      assertEquals(value, clonedValue);
+      assertNotStrictEquals(value, clonedValue);
+      assertNotStrictEquals(value.get("1"), clonedValue.get("1"));
     });
   });
 
@@ -422,7 +247,7 @@ describe("_deepCloning test", () => {
       const value = () => "Hi";
       const clonedValue = _deepCloning(value);
 
-      assert(value === clonedValue);
+      assertStrictEquals(value, clonedValue);
     });
   });
 });

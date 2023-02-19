@@ -5,7 +5,7 @@
     {
       "functionName": "op_sleep",
       "ranges": [
-        { "startOffset": 151, "endOffset": 659, "count": 124 },
+        { "startOffset": 151, "endOffset": 659, "count": 116 },
         { "startOffset": 359, "endOffset": 516, "count": 0 }
       ],
       "isBlockCoverage": true

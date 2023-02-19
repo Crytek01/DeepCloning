@@ -5,7 +5,7 @@
     {
       "functionName": "assert",
       "ranges": [
-        { "startOffset": 7297, "endOffset": 7411, "count": 434 },
+        { "startOffset": 7297, "endOffset": 7411, "count": 406 },
         { "startOffset": 7363, "endOffset": 7407, "count": 0 }
       ],
       "isBlockCoverage": true

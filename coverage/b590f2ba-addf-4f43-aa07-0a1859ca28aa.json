@@ -5,14 +5,14 @@
     {
       "functionName": "formatException",
       "ranges": [
-        { "startOffset": 6491, "endOffset": 6902, "count": 62 },
+        { "startOffset": 6491, "endOffset": 6902, "count": 58 },
         { "startOffset": 6612, "endOffset": 6898, "count": 0 }
       ],
       "isBlockCoverage": true
     },
     {
       "functionName": "promiseRejectMacrotaskCallback",
-      "ranges": [{ "startOffset": 11260, "endOffset": 12638, "count": 360 }],
+      "ranges": [{ "startOffset": 11260, "endOffset": 12638, "count": 329 }],
       "isBlockCoverage": false
     },
     {

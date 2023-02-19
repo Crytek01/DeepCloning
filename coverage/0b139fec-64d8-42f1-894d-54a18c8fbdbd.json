@@ -4,7 +4,7 @@
   "functions": [
     {
       "functionName": "toNumber",
-      "ranges": [{ "startOffset": 2298, "endOffset": 2465, "count": 124 }],
+      "ranges": [{ "startOffset": 2298, "endOffset": 2465, "count": 116 }],
       "isBlockCoverage": false
     },
     {
@@ -14,12 +14,12 @@
     },
     {
       "functionName": "censorNegativeZero",
-      "ranges": [{ "startOffset": 4715, "endOffset": 4779, "count": 124 }],
+      "ranges": [{ "startOffset": 4715, "endOffset": 4779, "count": 116 }],
       "isBlockCoverage": false
     },
     {
       "functionName": "",
-      "ranges": [{ "startOffset": 5397, "endOffset": 6713, "count": 124 }],
+      "ranges": [{ "startOffset": 5397, "endOffset": 6713, "count": 116 }],
       "isBlockCoverage": false
     },
     {

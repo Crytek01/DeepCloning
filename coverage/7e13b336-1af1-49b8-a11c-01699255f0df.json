@@ -4,7 +4,7 @@
   "functions": [
     {
       "functionName": "setExitHandler",
-      "ranges": [{ "startOffset": 1117, "endOffset": 1172, "count": 124 }],
+      "ranges": [{ "startOffset": 1117, "endOffset": 1172, "count": 116 }],
       "isBlockCoverage": true
     }
   ]

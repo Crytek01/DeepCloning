@@ -1,6 +1,7 @@
 # DeepCloning
 
-Is a simple Deno library for cloning deeply nested objects asynchronously or synchronously. It can clone arrays, maps, sets, and dates within.
+Is a simple Deno library for cloning deeply nested objects asynchronously or
+synchronously. It can clone arrays, maps, sets, and dates within.
 
 ## Usage
 
@@ -33,7 +34,8 @@ console.log(clonedObject);
 
 ## How to run benchmark?
 
-Simply type 
+Simply type
+
 ```sh
 deno bench ./benchmark/mod.ts
 ```
