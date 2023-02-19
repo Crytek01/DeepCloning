@@ -1,0 +1,102 @@
+{
+  "scriptId": "191",
+  "url": "file:///C:/Users/Erick/Documents/projects/personal/DeepClone/src/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2007, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "not",
+      "ranges": [{ "startOffset": 34, "endOffset": 41, "count": 177 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isUndefined",
+      "ranges": [{ "startOffset": 70, "endOffset": 90, "count": 11 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNull",
+      "ranges": [{ "startOffset": 114, "endOffset": 129, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNullish",
+      "ranges": [
+        { "startOffset": 156, "endOffset": 188, "count": 6 },
+        { "startOffset": 176, "endOffset": 188, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isObject",
+      "ranges": [{ "startOffset": 235, "endOffset": 259, "count": 206 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isMap",
+      "ranges": [{ "startOffset": 282, "endOffset": 303, "count": 70 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSet",
+      "ranges": [{ "startOffset": 326, "endOffset": 347, "count": 65 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isArray",
+      "ranges": [{ "startOffset": 402, "endOffset": 425, "count": 48 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isDate",
+      "ranges": [{ "startOffset": 449, "endOffset": 471, "count": 39 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isFunction",
+      "ranges": [{ "startOffset": 499, "endOffset": 525, "count": 30 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_deepCloning",
+      "ranges": [
+        { "startOffset": 555, "endOffset": 1801, "count": 175 },
+        { "startOffset": 596, "endOffset": 625, "count": 105 },
+        { "startOffset": 625, "endOffset": 648, "count": 70 },
+        { "startOffset": 648, "endOffset": 959, "count": 10 },
+        { "startOffset": 794, "endOffset": 914, "count": 13 },
+        { "startOffset": 959, "endOffset": 982, "count": 60 },
+        { "startOffset": 982, "endOffset": 1234, "count": 12 },
+        { "startOffset": 1120, "endOffset": 1188, "count": 26 },
+        { "startOffset": 1234, "endOffset": 1259, "count": 48 },
+        { "startOffset": 1259, "endOffset": 1435, "count": 9 },
+        { "startOffset": 1344, "endOffset": 1407, "count": 23 },
+        { "startOffset": 1435, "endOffset": 1459, "count": 39 },
+        { "startOffset": 1459, "endOffset": 1498, "count": 9 },
+        { "startOffset": 1498, "endOffset": 1574, "count": 30 },
+        { "startOffset": 1574, "endOffset": 1603, "count": 5 },
+        { "startOffset": 1603, "endOffset": 1799, "count": 25 },
+        { "startOffset": 1695, "endOffset": 1765, "count": 95 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deepCloningSync",
+      "ranges": [{ "startOffset": 1834, "endOffset": 1880, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deepCloning",
+      "ranges": [{ "startOffset": 1909, "endOffset": 2005, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1944, "endOffset": 2001, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

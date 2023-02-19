@@ -1,0 +1,16 @@
+{
+  "scriptId": "194",
+  "url": "https://deno.land/x/object_clone@1.1.0/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 415, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 32, "endOffset": 414, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
