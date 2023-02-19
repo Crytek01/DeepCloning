@@ -1,0 +1,16 @@
+{
+  "scriptId": "757",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_nativeKeysIn.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 488, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "nativeKeysIn",
+      "ranges": [{ "startOffset": 292, "endOffset": 457, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "665",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_customDefaultsAssignIn.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 932, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "customDefaultsAssignIn",
+      "ranges": [{ "startOffset": 668, "endOffset": 891, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

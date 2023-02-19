@@ -1,0 +1,28 @@
+{
+  "scriptId": "720",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_cloneBuffer.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1054, "count": 1 },
+        { "startOffset": 116, "endOffset": 126, "count": 0 },
+        { "startOffset": 127, "endOffset": 147, "count": 0 },
+        { "startOffset": 148, "endOffset": 158, "count": 0 },
+        { "startOffset": 228, "endOffset": 256, "count": 0 },
+        { "startOffset": 257, "endOffset": 266, "count": 0 },
+        { "startOffset": 267, "endOffset": 286, "count": 0 },
+        { "startOffset": 287, "endOffset": 296, "count": 0 },
+        { "startOffset": 393, "endOffset": 430, "count": 0 },
+        { "startOffset": 494, "endOffset": 507, "count": 0 },
+        { "startOffset": 546, "endOffset": 566, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cloneBuffer",
+      "ranges": [{ "startOffset": 783, "endOffset": 1024, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

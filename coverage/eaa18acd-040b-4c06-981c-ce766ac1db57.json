@@ -1,0 +1,16 @@
+{
+  "scriptId": "709",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createCurry.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1445, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createCurry",
+      "ranges": [{ "startOffset": 611, "endOffset": 1415, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

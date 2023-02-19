@@ -1,0 +1,16 @@
+{
+  "scriptId": "368",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/meanBy.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 877, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "meanBy",
+      "ranges": [{ "startOffset": 763, "endOffset": 852, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

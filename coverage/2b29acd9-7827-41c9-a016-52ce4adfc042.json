@@ -1,0 +1,16 @@
+{
+  "scriptId": "292",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/groupBy.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1397, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1208, "endOffset": 1369, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

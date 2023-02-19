@@ -1,0 +1,16 @@
+{
+  "scriptId": "807",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_ListCache.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 867, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ListCache",
+      "ranges": [{ "startOffset": 376, "endOffset": 594, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

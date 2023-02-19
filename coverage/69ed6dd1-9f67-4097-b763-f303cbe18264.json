@@ -1,0 +1,16 @@
+{
+  "scriptId": "554",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseDifference.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1915, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseDifference",
+      "ranges": [{ "startOffset": 801, "endOffset": 1882, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

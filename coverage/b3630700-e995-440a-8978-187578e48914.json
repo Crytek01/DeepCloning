@@ -1,0 +1,16 @@
+{
+  "scriptId": "689",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseZipObject.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 658, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseZipObject",
+      "ranges": [{ "startOffset": 313, "endOffset": 626, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

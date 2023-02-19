@@ -1,0 +1,16 @@
+{
+  "scriptId": "682",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseUniq.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1907, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseUniq",
+      "ranges": [{ "startOffset": 704, "endOffset": 1880, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

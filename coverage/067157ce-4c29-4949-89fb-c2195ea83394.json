@@ -1,0 +1,16 @@
+{
+  "scriptId": "463",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/times.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1365, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "times",
+      "ranges": [{ "startOffset": 979, "endOffset": 1341, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

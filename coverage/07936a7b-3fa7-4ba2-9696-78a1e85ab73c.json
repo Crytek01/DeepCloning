@@ -1,0 +1,11 @@
+{
+  "scriptId": "279",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/floor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 519, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

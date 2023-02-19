@@ -1,0 +1,16 @@
+{
+  "scriptId": "417",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/repeat.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 891, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "repeat",
+      "ranges": [{ "startOffset": 669, "endOffset": 866, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

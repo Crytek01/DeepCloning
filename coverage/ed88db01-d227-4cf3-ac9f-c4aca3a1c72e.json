@@ -1,0 +1,16 @@
+{
+  "scriptId": "295",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/has.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 755, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "has",
+      "ranges": [{ "startOffset": 644, "endOffset": 733, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

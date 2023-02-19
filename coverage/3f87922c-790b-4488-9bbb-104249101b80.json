@@ -1,0 +1,16 @@
+{
+  "scriptId": "415",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/reject.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1415, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "reject",
+      "ranges": [{ "startOffset": 1224, "endOffset": 1390, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

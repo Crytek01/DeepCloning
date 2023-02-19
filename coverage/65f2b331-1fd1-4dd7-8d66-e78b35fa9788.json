@@ -1,0 +1,16 @@
+{
+  "scriptId": "648",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseRepeat.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 950, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseRepeat",
+      "ranges": [{ "startOffset": 477, "endOffset": 921, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

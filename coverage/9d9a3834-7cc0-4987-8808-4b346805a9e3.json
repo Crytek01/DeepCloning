@@ -1,0 +1,20 @@
+{
+  "scriptId": "335",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isObject.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 731, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isObject",
+      "ranges": [
+        { "startOffset": 581, "endOffset": 704, "count": 480 },
+        { "startOffset": 658, "endOffset": 701, "count": 479 },
+        { "startOffset": 679, "endOffset": 700, "count": 476 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

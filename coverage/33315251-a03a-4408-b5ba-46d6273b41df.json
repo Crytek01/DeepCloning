@@ -1,0 +1,16 @@
+{
+  "scriptId": "445",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/stubArray.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 388, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stubArray",
+      "ranges": [{ "startOffset": 323, "endOffset": 360, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

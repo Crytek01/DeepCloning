@@ -1,0 +1,16 @@
+{
+  "scriptId": "752",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIsEqualDeep.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3008, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIsEqualDeep",
+      "ranges": [{ "startOffset": 1444, "endOffset": 2974, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

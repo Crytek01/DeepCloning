@@ -1,0 +1,16 @@
+{
+  "scriptId": "522",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_copyObject.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1042, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copyObject",
+      "ranges": [{ "startOffset": 467, "endOffset": 1013, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

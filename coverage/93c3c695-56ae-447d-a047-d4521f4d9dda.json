@@ -1,0 +1,19 @@
+{
+  "scriptId": "768",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_getSymbolsIn.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 752, "count": 1 },
+        { "startOffset": 549, "endOffset": 560, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getSymbolsIn",
+      "ranges": [{ "startOffset": 563, "endOffset": 720, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

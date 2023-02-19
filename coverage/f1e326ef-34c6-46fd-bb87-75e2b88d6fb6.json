@@ -1,0 +1,16 @@
+{
+  "scriptId": "229",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/cond.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1611, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cond",
+      "ranges": [{ "startOffset": 1063, "endOffset": 1588, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

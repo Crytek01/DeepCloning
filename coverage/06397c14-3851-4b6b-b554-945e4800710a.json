@@ -1,0 +1,16 @@
+{
+  "scriptId": "259",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/escapeRegExp.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 869, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "escapeRegExp",
+      "ranges": [{ "startOffset": 669, "endOffset": 838, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

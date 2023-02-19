@@ -1,0 +1,16 @@
+{
+  "scriptId": "825",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_getMapData.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 398, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getMapData",
+      "ranges": [{ "startOffset": 214, "endOffset": 369, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

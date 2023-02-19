@@ -1,0 +1,16 @@
+{
+  "scriptId": "494",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/unzip.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1280, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "unzip",
+      "ranges": [{ "startOffset": 898, "endOffset": 1256, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

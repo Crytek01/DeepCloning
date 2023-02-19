@@ -1,0 +1,16 @@
+{
+  "scriptId": "810",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_stackGet.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 269, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stackGet",
+      "ranges": [{ "startOffset": 183, "endOffset": 242, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

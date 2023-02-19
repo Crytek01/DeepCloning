@@ -1,0 +1,16 @@
+{
+  "scriptId": "228",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/concat.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1005, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "concat",
+      "ranges": [{ "startOffset": 656, "endOffset": 980, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

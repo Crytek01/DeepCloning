@@ -1,0 +1,16 @@
+{
+  "scriptId": "570",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_castFunction.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 324, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "castFunction",
+      "ranges": [{ "startOffset": 205, "endOffset": 293, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

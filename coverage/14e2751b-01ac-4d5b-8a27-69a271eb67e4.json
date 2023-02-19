@@ -1,0 +1,16 @@
+{
+  "scriptId": "278",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/flip.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 634, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "flip",
+      "ranges": [{ "startOffset": 545, "endOffset": 611, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

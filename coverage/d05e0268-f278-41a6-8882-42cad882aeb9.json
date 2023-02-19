@@ -1,0 +1,16 @@
+{
+  "scriptId": "264",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/filter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1681, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filter",
+      "ranges": [{ "startOffset": 1498, "endOffset": 1656, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

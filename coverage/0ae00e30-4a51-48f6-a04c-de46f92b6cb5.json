@@ -1,0 +1,20 @@
+{
+  "scriptId": "824",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_Hash.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 745, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Hash",
+      "ranges": [
+        { "startOffset": 319, "endOffset": 532, "count": 2 },
+        { "startOffset": 397, "endOffset": 413, "count": 0 },
+        { "startOffset": 459, "endOffset": 530, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

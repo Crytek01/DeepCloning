@@ -1,0 +1,16 @@
+{
+  "scriptId": "837",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_hashSet.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 596, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hashSet",
+      "ranges": [{ "startOffset": 379, "endOffset": 570, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

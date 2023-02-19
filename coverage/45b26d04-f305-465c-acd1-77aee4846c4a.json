@@ -1,0 +1,16 @@
+{
+  "scriptId": "475",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/toPlainObject.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 742, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toPlainObject",
+      "ranges": [{ "startOffset": 634, "endOffset": 710, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

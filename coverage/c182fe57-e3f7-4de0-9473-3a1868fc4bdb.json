@@ -1,0 +1,16 @@
+{
+  "scriptId": "328",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isMatch.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1076, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isMatch",
+      "ranges": [{ "startOffset": 933, "endOffset": 1050, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

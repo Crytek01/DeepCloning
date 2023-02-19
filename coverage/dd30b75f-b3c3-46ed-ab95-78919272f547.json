@@ -1,0 +1,16 @@
+{
+  "scriptId": "333",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isNull.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 379, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNull",
+      "ranges": [{ "startOffset": 303, "endOffset": 354, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

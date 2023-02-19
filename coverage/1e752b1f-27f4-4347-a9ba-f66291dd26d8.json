@@ -1,0 +1,16 @@
+{
+  "scriptId": "545",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIteratee.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 893, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIteratee",
+      "ranges": [{ "startOffset": 401, "endOffset": 862, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

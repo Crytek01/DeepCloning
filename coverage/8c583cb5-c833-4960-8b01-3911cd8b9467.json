@@ -1,0 +1,16 @@
+{
+  "scriptId": "652",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseSampleSize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 546, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseSampleSize",
+      "ranges": [{ "startOffset": 377, "endOffset": 513, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

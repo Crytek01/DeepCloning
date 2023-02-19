@@ -1,0 +1,16 @@
+{
+  "scriptId": "315",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isBoolean.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 679, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isBoolean",
+      "ranges": [{ "startOffset": 517, "endOffset": 651, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

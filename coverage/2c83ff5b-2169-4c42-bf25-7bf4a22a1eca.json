@@ -1,0 +1,16 @@
+{
+  "scriptId": "442",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/spread.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1732, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "spread",
+      "ranges": [{ "startOffset": 1315, "endOffset": 1707, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

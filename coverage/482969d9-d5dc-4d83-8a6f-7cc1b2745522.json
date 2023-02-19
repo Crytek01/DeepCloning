@@ -1,0 +1,16 @@
+{
+  "scriptId": "657",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseSortedIndex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1427, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseSortedIndex",
+      "ranges": [{ "startOffset": 813, "endOffset": 1393, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

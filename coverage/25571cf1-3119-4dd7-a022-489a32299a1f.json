@@ -1,0 +1,16 @@
+{
+  "scriptId": "227",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/compact.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 679, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compact",
+      "ranges": [{ "startOffset": 382, "endOffset": 653, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

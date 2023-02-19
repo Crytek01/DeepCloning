@@ -1,0 +1,11 @@
+{
+  "scriptId": "261",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/extend.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 40, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

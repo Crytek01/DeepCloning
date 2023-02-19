@@ -1,0 +1,16 @@
+{
+  "scriptId": "246",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/differenceWith.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1393, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1083, "endOffset": 1358, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

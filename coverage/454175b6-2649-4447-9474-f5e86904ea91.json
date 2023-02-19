@@ -1,0 +1,16 @@
+{
+  "scriptId": "470",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/toLower.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 590, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toLower",
+      "ranges": [{ "startOffset": 497, "endOffset": 564, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

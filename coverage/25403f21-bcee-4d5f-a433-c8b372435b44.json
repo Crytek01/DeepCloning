@@ -1,0 +1,16 @@
+{
+  "scriptId": "427",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/shuffle.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 676, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "shuffle",
+      "ranges": [{ "startOffset": 528, "endOffset": 650, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

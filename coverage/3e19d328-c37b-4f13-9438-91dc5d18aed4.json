@@ -1,0 +1,16 @@
+{
+  "scriptId": "302",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/initial.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 459, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "initial",
+      "ranges": [{ "startOffset": 309, "endOffset": 433, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

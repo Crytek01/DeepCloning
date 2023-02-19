@@ -1,0 +1,11 @@
+{
+  "scriptId": "696",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/number.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 194, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

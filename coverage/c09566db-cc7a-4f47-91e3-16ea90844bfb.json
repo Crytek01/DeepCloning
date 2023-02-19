@@ -1,0 +1,16 @@
+{
+  "scriptId": "641",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_compareAscending.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1341, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareAscending",
+      "ranges": [{ "startOffset": 271, "endOffset": 1306, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

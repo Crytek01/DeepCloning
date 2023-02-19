@@ -1,0 +1,16 @@
+{
+  "scriptId": "521",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_assignValue.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 897, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assignValue",
+      "ranges": [{ "startOffset": 629, "endOffset": 867, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

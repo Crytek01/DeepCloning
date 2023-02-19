@@ -1,0 +1,16 @@
+{
+  "scriptId": "675",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseTrim.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 442, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseTrim",
+      "ranges": [{ "startOffset": 280, "endOffset": 415, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "688",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseXor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1097, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseXor",
+      "ranges": [{ "startOffset": 536, "endOffset": 1071, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

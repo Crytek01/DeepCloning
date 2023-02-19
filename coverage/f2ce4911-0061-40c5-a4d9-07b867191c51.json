@@ -1,0 +1,16 @@
+{
+  "scriptId": "354",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/lastIndexOf.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1356, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lastIndexOf",
+      "ranges": [{ "startOffset": 892, "endOffset": 1326, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "scriptId": "343",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isTypedArray.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 693, "count": 1 },
+        { "startOffset": 201, "endOffset": 225, "count": 0 },
+        { "startOffset": 613, "endOffset": 642, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

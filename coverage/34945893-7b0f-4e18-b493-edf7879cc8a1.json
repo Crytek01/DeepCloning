@@ -1,0 +1,16 @@
+{
+  "scriptId": "282",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/forEach.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1353, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "forEach",
+      "ranges": [{ "startOffset": 1177, "endOffset": 1327, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

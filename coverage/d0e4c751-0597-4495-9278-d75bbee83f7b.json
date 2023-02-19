@@ -1,0 +1,26 @@
+{
+  "scriptId": "801",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_shortOut.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 939, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "shortOut",
+      "ranges": [{ "startOffset": 534, "endOffset": 912, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 609, "endOffset": 909, "count": 50 },
+        { "startOffset": 752, "endOffset": 830, "count": 49 },
+        { "startOffset": 786, "endOffset": 824, "count": 0 },
+        { "startOffset": 830, "endOffset": 860, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

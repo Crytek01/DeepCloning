@@ -1,0 +1,11 @@
+{
+  "scriptId": "748",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_Promise.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 205, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

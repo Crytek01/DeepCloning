@@ -1,0 +1,20 @@
+{
+  "scriptId": "556",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseToString.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1152, "count": 1 },
+        { "startOffset": 332, "endOffset": 343, "count": 0 },
+        { "startOffset": 401, "endOffset": 412, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseToString",
+      "ranges": [{ "startOffset": 622, "endOffset": 1121, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

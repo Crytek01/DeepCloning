@@ -1,0 +1,16 @@
+{
+  "scriptId": "740",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseInverter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 734, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseInverter",
+      "ranges": [{ "startOffset": 504, "endOffset": 703, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

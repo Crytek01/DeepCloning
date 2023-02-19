@@ -1,0 +1,16 @@
+{
+  "scriptId": "323",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isFinite.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 791, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isFinite",
+      "ranges": [{ "startOffset": 676, "endOffset": 764, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

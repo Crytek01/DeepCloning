@@ -1,0 +1,21 @@
+{
+  "scriptId": "674",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_setToArray.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 343, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setToArray",
+      "ranges": [{ "startOffset": 151, "endOffset": 314, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 243, "endOffset": 293, "count": 2 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "659",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseSortedUniq.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 756, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseSortedUniq",
+      "ranges": [{ "startOffset": 330, "endOffset": 723, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "653",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseSet.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1383, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseSet",
+      "ranges": [{ "startOffset": 518, "endOffset": 1357, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

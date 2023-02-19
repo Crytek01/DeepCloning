@@ -1,0 +1,16 @@
+{
+  "scriptId": "734",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_cacheHas.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 335, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cacheHas",
+      "ranges": [{ "startOffset": 250, "endOffset": 308, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

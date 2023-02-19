@@ -1,0 +1,16 @@
+{
+  "scriptId": "457",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/takeWhile.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1333, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "takeWhile",
+      "ranges": [{ "startOffset": 1171, "endOffset": 1305, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

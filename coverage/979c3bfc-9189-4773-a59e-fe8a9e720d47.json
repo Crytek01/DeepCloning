@@ -1,0 +1,11 @@
+{
+  "scriptId": "422",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/round.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 499, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

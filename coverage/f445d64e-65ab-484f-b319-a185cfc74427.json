@@ -1,0 +1,11 @@
+{
+  "scriptId": "79",
+  "url": "internal:runtime/js/98_global_scope.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 11465, "endOffset": 11481, "count": 4 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

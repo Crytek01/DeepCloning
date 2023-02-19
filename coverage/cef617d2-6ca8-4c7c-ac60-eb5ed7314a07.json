@@ -1,0 +1,16 @@
+{
+  "scriptId": "461",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/throttle.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2707, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "throttle",
+      "ranges": [{ "startOffset": 2236, "endOffset": 2680, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "489",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/uniq.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 686, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "uniq",
+      "ranges": [{ "startOffset": 582, "endOffset": 663, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "496",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/update.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1074, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 923, "endOffset": 1049, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

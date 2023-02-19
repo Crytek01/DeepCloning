@@ -1,0 +1,21 @@
+{
+  "scriptId": "636",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseProperty.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 358, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseProperty",
+      "ranges": [{ "startOffset": 211, "endOffset": 327, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 249, "endOffset": 324, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

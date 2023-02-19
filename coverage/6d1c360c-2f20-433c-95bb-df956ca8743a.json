@@ -1,0 +1,16 @@
+{
+  "scriptId": "702",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_lazyClone.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 655, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lazyClone",
+      "ranges": [{ "startOffset": 259, "endOffset": 627, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

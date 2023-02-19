@@ -1,0 +1,15 @@
+{
+  "scriptId": "327",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isMap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 611, "count": 1 },
+        { "startOffset": 180, "endOffset": 197, "count": 0 },
+        { "startOffset": 552, "endOffset": 574, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

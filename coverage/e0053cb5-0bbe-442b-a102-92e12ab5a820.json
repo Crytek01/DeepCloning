@@ -1,0 +1,16 @@
+{
+  "scriptId": "413",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/reduce.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1804, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "reduce",
+      "ranges": [{ "startOffset": 1535, "endOffset": 1779, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

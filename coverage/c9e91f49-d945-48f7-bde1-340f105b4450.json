@@ -1,0 +1,16 @@
+{
+  "scriptId": "403",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/propertyOf.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 730, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "propertyOf",
+      "ranges": [{ "startOffset": 576, "endOffset": 701, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

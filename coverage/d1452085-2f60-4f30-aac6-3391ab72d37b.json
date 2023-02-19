@@ -1,0 +1,16 @@
+{
+  "scriptId": "318",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isElement.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 572, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isElement",
+      "ranges": [{ "startOffset": 436, "endOffset": 544, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

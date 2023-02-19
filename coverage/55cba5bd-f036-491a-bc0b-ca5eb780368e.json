@@ -1,0 +1,16 @@
+{
+  "scriptId": "371",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/mergeWith.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1245, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1114, "endOffset": 1215, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

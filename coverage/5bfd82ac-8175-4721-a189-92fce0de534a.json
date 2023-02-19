@@ -1,0 +1,16 @@
+{
+  "scriptId": "435",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/sortedIndexOf.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 760, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sortedIndexOf",
+      "ranges": [{ "startOffset": 480, "endOffset": 728, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

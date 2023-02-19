@@ -1,0 +1,16 @@
+{
+  "scriptId": "619",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseExtremum.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 895, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseExtremum",
+      "ranges": [{ "startOffset": 422, "endOffset": 864, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

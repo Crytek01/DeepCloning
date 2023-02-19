@@ -1,0 +1,25 @@
+{
+  "scriptId": "369",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/memoize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2222, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "memoize",
+      "ranges": [
+        { "startOffset": 1572, "endOffset": 2147, "count": 1 },
+        { "startOffset": 1695, "endOffset": 1742, "count": 0 },
+        { "startOffset": 2113, "endOffset": 2124, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "memoized",
+      "ranges": [{ "startOffset": 1760, "endOffset": 2073, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

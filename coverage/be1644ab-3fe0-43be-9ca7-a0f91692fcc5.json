@@ -1,0 +1,16 @@
+{
+  "scriptId": "640",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_basePullAt.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 937, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "basePullAt",
+      "ranges": [{ "startOffset": 512, "endOffset": 908, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

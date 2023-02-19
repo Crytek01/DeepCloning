@@ -1,0 +1,26 @@
+{
+  "scriptId": "738",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createBaseFor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 646, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createBaseFor",
+      "ranges": [{ "startOffset": 217, "endOffset": 614, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 262, "endOffset": 611, "count": 3 },
+        { "startOffset": 443, "endOffset": 588, "count": 341 },
+        { "startOffset": 477, "endOffset": 485, "count": 0 },
+        { "startOffset": 558, "endOffset": 582, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

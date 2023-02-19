@@ -1,0 +1,16 @@
+{
+  "scriptId": "395",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/parseInt.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1254, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseInt",
+      "ranges": [{ "startOffset": 1011, "endOffset": 1227, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

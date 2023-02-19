@@ -1,0 +1,11 @@
+{
+  "scriptId": "705",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_realNames.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 96, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

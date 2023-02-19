@@ -1,0 +1,16 @@
+{
+  "scriptId": "481",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/trimEnd.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1214, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "trimEnd",
+      "ranges": [{ "startOffset": 775, "endOffset": 1188, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

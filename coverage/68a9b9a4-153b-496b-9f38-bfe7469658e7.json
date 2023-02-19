@@ -1,0 +1,16 @@
+{
+  "scriptId": "635",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_basePickBy.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 789, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "basePickBy",
+      "ranges": [{ "startOffset": 431, "endOffset": 760, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "260",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/every.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1867, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "every",
+      "ranges": [{ "startOffset": 1587, "endOffset": 1843, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

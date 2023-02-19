@@ -1,0 +1,11 @@
+{
+  "scriptId": "750",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_WeakMap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 205, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

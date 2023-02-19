@@ -1,0 +1,64 @@
+{
+  "scriptId": "192",
+  "url": "file:///C:/Users/Erick/Documents/projects/personal/DeepClone/src/helpers/predicate_helpers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 476, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "not",
+      "ranges": [{ "startOffset": 34, "endOffset": 41, "count": 40 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isUndefined",
+      "ranges": [{ "startOffset": 70, "endOffset": 90, "count": 11 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNull",
+      "ranges": [{ "startOffset": 114, "endOffset": 129, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNullish",
+      "ranges": [
+        { "startOffset": 156, "endOffset": 188, "count": 6 },
+        { "startOffset": 176, "endOffset": 188, "count": 5 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isObject",
+      "ranges": [{ "startOffset": 214, "endOffset": 238, "count": 51 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isMap",
+      "ranges": [{ "startOffset": 261, "endOffset": 282, "count": 20 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSet",
+      "ranges": [{ "startOffset": 305, "endOffset": 326, "count": 22 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isArray",
+      "ranges": [{ "startOffset": 351, "endOffset": 374, "count": 15 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isDate",
+      "ranges": [{ "startOffset": 398, "endOffset": 420, "count": 12 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isFunction",
+      "ranges": [{ "startOffset": 448, "endOffset": 474, "count": 8 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "scriptId": "826",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_getValue.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 323, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getValue",
+      "ranges": [
+        { "startOffset": 211, "endOffset": 296, "count": 7 },
+        { "startOffset": 268, "endOffset": 279, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

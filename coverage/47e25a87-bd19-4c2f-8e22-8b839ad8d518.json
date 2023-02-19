@@ -1,0 +1,16 @@
+{
+  "scriptId": "448",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/stubString.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 288, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stubString",
+      "ranges": [{ "startOffset": 221, "endOffset": 259, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

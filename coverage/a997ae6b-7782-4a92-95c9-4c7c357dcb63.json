@@ -1,0 +1,16 @@
+{
+  "scriptId": "721",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_copySymbols.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 444, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copySymbols",
+      "ranges": [{ "startOffset": 317, "endOffset": 414, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

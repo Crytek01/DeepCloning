@@ -1,0 +1,16 @@
+{
+  "scriptId": "823",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_equalObjects.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2969, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equalObjects",
+      "ranges": [{ "startOffset": 927, "endOffset": 2938, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

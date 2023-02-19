@@ -1,0 +1,11 @@
+{
+  "scriptId": "747",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_Map.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 193, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

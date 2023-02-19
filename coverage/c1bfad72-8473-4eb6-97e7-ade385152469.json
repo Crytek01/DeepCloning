@@ -1,0 +1,16 @@
+{
+  "scriptId": "804",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_updateWrapDetails.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1308, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateWrapDetails",
+      "ranges": [{ "startOffset": 1023, "endOffset": 1272, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

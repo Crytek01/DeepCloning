@@ -1,0 +1,16 @@
+{
+  "scriptId": "577",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseGt.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 355, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseGt",
+      "ranges": [{ "startOffset": 273, "endOffset": 330, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

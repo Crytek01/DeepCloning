@@ -1,0 +1,16 @@
+{
+  "scriptId": "678",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_charsEndIndex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 598, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "charsEndIndex",
+      "ranges": [{ "startOffset": 391, "endOffset": 566, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

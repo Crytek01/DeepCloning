@@ -1,0 +1,16 @@
+{
+  "scriptId": "742",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_freeGlobal.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 171, "count": 1 },
+        { "startOffset": 94, "endOffset": 103, "count": 0 },
+        { "startOffset": 104, "endOffset": 131, "count": 0 },
+        { "startOffset": 132, "endOffset": 141, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

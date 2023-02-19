@@ -1,0 +1,16 @@
+{
+  "scriptId": "580",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_hasPath.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1083, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasPath",
+      "ranges": [{ "startOffset": 519, "endOffset": 1057, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

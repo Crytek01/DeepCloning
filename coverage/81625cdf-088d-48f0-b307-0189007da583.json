@@ -1,0 +1,16 @@
+{
+  "scriptId": "206",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/assignIn.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 904, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 801, "endOffset": 875, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

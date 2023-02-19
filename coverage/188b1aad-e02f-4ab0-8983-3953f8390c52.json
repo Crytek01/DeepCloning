@@ -1,0 +1,16 @@
+{
+  "scriptId": "322",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isError.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 959, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isError",
+      "ranges": [{ "startOffset": 677, "endOffset": 933, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

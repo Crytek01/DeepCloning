@@ -1,0 +1,21 @@
+{
+  "scriptId": "519",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createMathOperation.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1102, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createMathOperation",
+      "ranges": [{ "startOffset": 411, "endOffset": 1064, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 475, "endOffset": 1061, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

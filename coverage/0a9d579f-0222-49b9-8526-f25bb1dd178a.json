@@ -1,0 +1,11 @@
+{
+  "scriptId": "391",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/overSome.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1034, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

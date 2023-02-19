@@ -1,0 +1,21 @@
+{
+  "scriptId": "644",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createRange.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 862, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createRange",
+      "ranges": [{ "startOffset": 330, "endOffset": 832, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 373, "endOffset": 829, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

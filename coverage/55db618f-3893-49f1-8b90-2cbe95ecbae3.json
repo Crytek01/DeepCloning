@@ -1,0 +1,16 @@
+{
+  "scriptId": "647",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayReduceRight.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 775, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "arrayReduceRight",
+      "ranges": [{ "startOffset": 435, "endOffset": 740, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

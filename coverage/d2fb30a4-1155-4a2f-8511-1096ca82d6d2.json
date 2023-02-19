@@ -1,0 +1,30 @@
+{
+  "scriptId": "376",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/mixin.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2234, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mixin",
+      "ranges": [
+        { "startOffset": 1331, "endOffset": 2210, "count": 2 },
+        { "startOffset": 1486, "endOffset": 1507, "count": 1 },
+        { "startOffset": 1509, "endOffset": 1527, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1590, "endOffset": 2188, "count": 303 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "object.<computed>",
+      "ranges": [{ "startOffset": 1734, "endOffset": 2177, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

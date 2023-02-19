@@ -1,0 +1,16 @@
+{
+  "scriptId": "637",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_basePropertyDeep.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 389, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "basePropertyDeep",
+      "ranges": [{ "startOffset": 252, "endOffset": 354, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "605",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIsSet.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 476, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIsSet",
+      "ranges": [{ "startOffset": 362, "endOffset": 448, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

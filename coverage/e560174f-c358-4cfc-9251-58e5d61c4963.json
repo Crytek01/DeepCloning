@@ -1,0 +1,24 @@
+{
+  "scriptId": "701",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createHybrid.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3250, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createHybrid",
+      "ranges": [
+        { "startOffset": 1540, "endOffset": 3219, "count": 1 },
+        { "startOffset": 1931, "endOffset": 1949, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wrapper",
+      "ranges": [{ "startOffset": 1954, "endOffset": 3199, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

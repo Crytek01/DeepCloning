@@ -1,0 +1,11 @@
+{
+  "scriptId": "745",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_nativeKeys.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 202, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

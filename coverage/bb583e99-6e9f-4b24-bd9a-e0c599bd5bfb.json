@@ -1,0 +1,20 @@
+{
+  "scriptId": "751",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_toSource.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 554, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toSource",
+      "ranges": [
+        { "startOffset": 339, "endOffset": 527, "count": 12 },
+        { "startOffset": 441, "endOffset": 508, "count": 0 },
+        { "startOffset": 512, "endOffset": 526, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

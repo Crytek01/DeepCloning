@@ -1,0 +1,16 @@
+{
+  "scriptId": "248",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/drop.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 888, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "drop",
+      "ranges": [{ "startOffset": 643, "endOffset": 865, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

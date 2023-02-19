@@ -1,0 +1,16 @@
+{
+  "scriptId": "718",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_Stack.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 732, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Stack",
+      "ranges": [{ "startOffset": 402, "endOffset": 507, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

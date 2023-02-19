@@ -1,0 +1,11 @@
+{
+  "scriptId": "557",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_escapeHtmlChar.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 477, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

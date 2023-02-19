@@ -1,0 +1,16 @@
+{
+  "scriptId": "505",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/words.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1029, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "words",
+      "ranges": [{ "startOffset": 740, "endOffset": 1005, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

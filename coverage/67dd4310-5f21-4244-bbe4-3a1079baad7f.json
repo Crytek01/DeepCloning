@@ -1,0 +1,16 @@
+{
+  "scriptId": "624",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseUnset.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 578, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseUnset",
+      "ranges": [{ "startOffset": 387, "endOffset": 550, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

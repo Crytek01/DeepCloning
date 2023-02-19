@@ -1,0 +1,16 @@
+{
+  "scriptId": "381",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/now.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 518, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "now",
+      "ranges": [{ "startOffset": 455, "endOffset": 495, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

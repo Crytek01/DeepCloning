@@ -1,0 +1,16 @@
+{
+  "scriptId": "408",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/pullAt.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1180, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 880, "endOffset": 1153, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

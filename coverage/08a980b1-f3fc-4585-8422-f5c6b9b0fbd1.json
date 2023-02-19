@@ -1,0 +1,16 @@
+{
+  "scriptId": "814",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_cloneArrayBuffer.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 447, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cloneArrayBuffer",
+      "ranges": [{ "startOffset": 226, "endOffset": 412, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

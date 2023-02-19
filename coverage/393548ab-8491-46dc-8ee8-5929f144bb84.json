@@ -1,0 +1,16 @@
+{
+  "scriptId": "571",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayEachRight.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 526, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "arrayEachRight",
+      "ranges": [{ "startOffset": 279, "endOffset": 493, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

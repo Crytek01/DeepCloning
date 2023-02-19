@@ -1,0 +1,16 @@
+{
+  "scriptId": "249",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/dropRight.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 925, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dropRight",
+      "ranges": [{ "startOffset": 657, "endOffset": 897, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "385",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/omitBy.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 852, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "omitBy",
+      "ranges": [{ "startOffset": 731, "endOffset": 827, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

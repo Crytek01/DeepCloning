@@ -1,0 +1,11 @@
+{
+  "scriptId": "771",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_asciiSize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 269, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

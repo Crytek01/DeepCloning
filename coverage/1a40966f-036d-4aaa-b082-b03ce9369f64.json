@@ -1,0 +1,16 @@
+{
+  "scriptId": "803",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_insertWrapDetails.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 746, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "insertWrapDetails",
+      "ranges": [{ "startOffset": 356, "endOffset": 710, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

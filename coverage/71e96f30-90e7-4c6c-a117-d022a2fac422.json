@@ -1,0 +1,16 @@
+{
+  "scriptId": "298",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/identity.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 368, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "identity",
+      "ranges": [{ "startOffset": 297, "endOffset": 341, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

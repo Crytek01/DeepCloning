@@ -1,0 +1,16 @@
+{
+  "scriptId": "319",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isEmpty.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1998, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isEmpty",
+      "ranges": [{ "startOffset": 1402, "endOffset": 1972, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "663",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseSum.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 598, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseSum",
+      "ranges": [{ "startOffset": 274, "endOffset": 572, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

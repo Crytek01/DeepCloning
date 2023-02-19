@@ -1,0 +1,19 @@
+{
+  "scriptId": "313",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isArrayLike.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 828, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isArrayLike",
+      "ranges": [
+        { "startOffset": 695, "endOffset": 798, "count": 6 },
+        { "startOffset": 774, "endOffset": 795, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

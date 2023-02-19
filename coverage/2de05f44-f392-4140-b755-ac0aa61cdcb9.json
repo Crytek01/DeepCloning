@@ -1,0 +1,16 @@
+{
+  "scriptId": "541",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayPush.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 435, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "arrayPush",
+      "ranges": [{ "startOffset": 200, "endOffset": 407, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

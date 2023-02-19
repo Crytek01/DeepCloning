@@ -1,0 +1,11 @@
+{
+  "scriptId": "193",
+  "url": "file:///C:/Users/Erick/Documents/projects/personal/DeepClone/src/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 79, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

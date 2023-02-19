@@ -5,18 +5,20 @@ import {
   assertStrictEquals,
   describe,
   it,
-} from "../depts.ts";
+} from "../dev_depts.ts";
+
+import { _deepCloning } from "../src/deep_cloning/deep_cloning.ts";
+
 import {
-  _deepCloning,
-  deepCloning,
-  deepCloningSync,
   isNull,
   isNullish,
   isObject,
   isSet,
   isUndefined,
   not,
-} from "../src/mod.ts";
+} from "../src/helpers/predicate_helpers.ts";
+
+import { deepCloning, deepCloningSync } from "../src/mod.ts";
 
 describe("not function test", () => {
   it("should return true if expression is false", () => {
@@ -286,7 +288,7 @@ describe("deepCloning Test", () => {
     const clonedValue = await deepCloning(value);
 
     assertEquals(value, clonedValue);
-    assert(value !== clonedValue);
+    assertNotStrictEquals(value, clonedValue);
 
     assertNotStrictEquals(value.pets, clonedValue.pets);
     assertNotStrictEquals(value.pets[0].born, clonedValue.pets[0].born);

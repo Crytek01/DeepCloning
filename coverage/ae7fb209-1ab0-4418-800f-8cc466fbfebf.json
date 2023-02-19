@@ -1,0 +1,16 @@
+{
+  "scriptId": "827",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_listCacheClear.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 216, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listCacheClear",
+      "ranges": [{ "startOffset": 115, "endOffset": 183, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

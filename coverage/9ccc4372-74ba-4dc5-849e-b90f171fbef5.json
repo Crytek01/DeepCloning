@@ -1,0 +1,20 @@
+{
+  "scriptId": "822",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_equalByTag.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 3744, "count": 1 },
+        { "startOffset": 882, "endOffset": 893, "count": 0 },
+        { "startOffset": 949, "endOffset": 960, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "equalByTag",
+      "ranges": [{ "startOffset": 1780, "endOffset": 3715, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

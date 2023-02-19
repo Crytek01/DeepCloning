@@ -1,0 +1,14 @@
+{
+  "scriptId": "602",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_isMaskable.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 393, "count": 1 },
+        { "startOffset": 339, "endOffset": 351, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

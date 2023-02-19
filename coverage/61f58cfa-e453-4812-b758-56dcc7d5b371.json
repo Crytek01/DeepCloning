@@ -1,0 +1,16 @@
+{
+  "scriptId": "342",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isSymbol.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 680, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSymbol",
+      "ranges": [{ "startOffset": 527, "endOffset": 653, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

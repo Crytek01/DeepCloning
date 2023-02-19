@@ -1,0 +1,16 @@
+{
+  "scriptId": "432",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/sortBy.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1666, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1238, "endOffset": 1639, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "703",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_lazyReverse.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 489, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lazyReverse",
+      "ranges": [{ "startOffset": 224, "endOffset": 459, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

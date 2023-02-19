@@ -1,0 +1,16 @@
+{
+  "scriptId": "451",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/sum.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 451, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sum",
+      "ranges": [{ "startOffset": 333, "endOffset": 429, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

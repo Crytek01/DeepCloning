@@ -1,0 +1,16 @@
+{
+  "scriptId": "808",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_stackClear.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 252, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stackClear",
+      "ranges": [{ "startOffset": 148, "endOffset": 223, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

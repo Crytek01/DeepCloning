@@ -1,0 +1,16 @@
+{
+  "scriptId": "254",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/endsWith.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1096, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "endsWith",
+      "ranges": [{ "startOffset": 714, "endOffset": 1069, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

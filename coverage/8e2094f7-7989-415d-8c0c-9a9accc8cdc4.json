@@ -1,0 +1,16 @@
+{
+  "scriptId": "655",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseShuffle.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 369, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseShuffle",
+      "ranges": [{ "startOffset": 261, "endOffset": 339, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

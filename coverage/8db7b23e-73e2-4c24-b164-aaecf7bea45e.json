@@ -1,0 +1,16 @@
+{
+  "scriptId": "231",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/conformsTo.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 952, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "conformsTo",
+      "ranges": [{ "startOffset": 811, "endOffset": 923, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

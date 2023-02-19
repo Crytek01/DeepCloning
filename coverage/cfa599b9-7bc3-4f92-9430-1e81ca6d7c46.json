@@ -1,0 +1,16 @@
+{
+  "scriptId": "685",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_hasUnicodeWord.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 489, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasUnicodeWord",
+      "ranges": [{ "startOffset": 381, "endOffset": 456, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "scriptId": "629",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createOver.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 778, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createOver",
+      "ranges": [{ "startOffset": 424, "endOffset": 749, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 475, "endOffset": 745, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

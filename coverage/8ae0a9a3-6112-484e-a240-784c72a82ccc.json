@@ -1,0 +1,11 @@
+{
+  "scriptId": "190",
+  "url": "file:///C:/Users/Erick/Documents/projects/personal/DeepClone/dev_depts.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 289, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

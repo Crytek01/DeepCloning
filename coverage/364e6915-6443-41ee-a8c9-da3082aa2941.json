@@ -1,0 +1,16 @@
+{
+  "scriptId": "365",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/max.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 612, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "max",
+      "ranges": [{ "startOffset": 473, "endOffset": 590, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
