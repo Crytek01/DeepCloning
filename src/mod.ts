@@ -5,7 +5,7 @@ type TMap = Map<unknown, unknown>;
 type TSet = Set<unknown>;
 type TArray = unknown[];
 type TFunction = (...args: unknown[]) => unknown;
-type TPredicate<T extends unknown> = (x: unknown) => x is T;
+type TPredicate<T> = (x: unknown) => x is T;
 
 export const not = (x: boolean) => !x;
 
