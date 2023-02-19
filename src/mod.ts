@@ -17,7 +17,6 @@ export const isNull: TPredicate<null> = (x): x is null => x === null;
 export const isNullish: TPredicate<TNullish> = (x): x is TNullish =>
   isUndefined(x) || isNull(x);
 
-//Any reference type
 export const isObject: TPredicate<TObject> = (x): x is TObject =>
   x instanceof Object;
 
@@ -25,7 +24,6 @@ export const isMap: TPredicate<TMap> = (x): x is TMap => x instanceof Map;
 
 export const isSet: TPredicate<TSet> = (x): x is TSet => x instanceof Set;
 
-//References type sub objects
 export const isArray: TPredicate<TArray> = (x): x is TArray =>
   x instanceof Array;
 
