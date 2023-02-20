@@ -5,7 +5,7 @@ import {
   assertStrictEquals,
   describe,
   it,
-} from "../dev_depts.ts";
+} from "../dev_deps.ts";
 
 import {
   _deepCloning,

@@ -1,5 +1,5 @@
 import bigObjectTenLevelsDeep from "./fixture/big_object.ts";
-import { clone, cloneDeep } from "../dev_depts.ts";
+import { clone, cloneDeep } from "../dev_deps.ts";
 import { deepCloningSync } from "../mod.ts";
 
 Deno.bench("deepCloningSync test", () => {
