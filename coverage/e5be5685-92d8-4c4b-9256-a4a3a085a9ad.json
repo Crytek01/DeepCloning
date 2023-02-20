@@ -1,0 +1,16 @@
+{
+  "scriptId": "612",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_wrapperClone.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 656, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wrapperClone",
+      "ranges": [{ "startOffset": 290, "endOffset": 625, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

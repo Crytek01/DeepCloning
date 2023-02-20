@@ -1,0 +1,16 @@
+{
+  "scriptId": "484",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/unescape.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1054, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "unescape",
+      "ranges": [{ "startOffset": 850, "endOffset": 1027, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

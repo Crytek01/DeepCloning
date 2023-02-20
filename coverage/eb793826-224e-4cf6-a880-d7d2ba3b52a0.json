@@ -1,0 +1,15 @@
+{
+  "scriptId": "311",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isArrayBuffer.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 730, "count": 1 },
+        { "startOffset": 204, "endOffset": 229, "count": 0 },
+        { "startOffset": 647, "endOffset": 677, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

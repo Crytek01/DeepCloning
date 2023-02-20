@@ -1,0 +1,16 @@
+{
+  "scriptId": "686",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseWrapperValue.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 855, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseWrapperValue",
+      "ranges": [{ "startOffset": 530, "endOffset": 820, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

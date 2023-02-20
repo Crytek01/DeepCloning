@@ -1,0 +1,11 @@
+{
+  "scriptId": "307",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/invoke.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 632, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

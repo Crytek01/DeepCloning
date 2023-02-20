@@ -1,0 +1,11 @@
+{
+  "scriptId": "292",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/gt.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 594, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "630",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arraySome.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 592, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "arraySome",
+      "ranges": [{ "startOffset": 333, "endOffset": 564, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

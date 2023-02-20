@@ -1,0 +1,16 @@
+{
+  "scriptId": "478",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2278, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "transform",
+      "ranges": [{ "startOffset": 1586, "endOffset": 2250, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

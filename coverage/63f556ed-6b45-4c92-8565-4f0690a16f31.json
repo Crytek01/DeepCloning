@@ -1,0 +1,11 @@
+{
+  "scriptId": "267",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/findLast.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 728, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

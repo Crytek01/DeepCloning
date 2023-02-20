@@ -1,0 +1,11 @@
+{
+  "scriptId": "280",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/flowRight.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 588, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

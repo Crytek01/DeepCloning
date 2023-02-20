@@ -1,0 +1,11 @@
+{
+  "scriptId": "667",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_reEscape.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 103, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

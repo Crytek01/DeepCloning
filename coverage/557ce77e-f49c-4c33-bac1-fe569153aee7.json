@@ -1,0 +1,16 @@
+{
+  "scriptId": "752",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_isStrictComparable.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 412, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isStrictComparable",
+      "ranges": [{ "startOffset": 291, "endOffset": 375, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

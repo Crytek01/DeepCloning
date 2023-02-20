@@ -1,0 +1,16 @@
+{
+  "scriptId": "262",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/fill.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1079, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fill",
+      "ranges": [{ "startOffset": 764, "endOffset": 1056, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

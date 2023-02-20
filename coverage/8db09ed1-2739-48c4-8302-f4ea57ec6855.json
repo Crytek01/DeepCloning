@@ -1,0 +1,11 @@
+{
+  "scriptId": "513",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/zip.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 607, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

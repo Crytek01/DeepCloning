@@ -1,0 +1,16 @@
+{
+  "scriptId": "298",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/inRange.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1243, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "inRange",
+      "ranges": [{ "startOffset": 980, "endOffset": 1217, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "827",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_listCacheDelete.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 773, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listCacheDelete",
+      "ranges": [{ "startOffset": 440, "endOffset": 739, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

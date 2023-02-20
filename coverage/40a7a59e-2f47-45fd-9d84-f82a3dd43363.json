@@ -1,0 +1,16 @@
+{
+  "scriptId": "344",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isWeakMap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 629, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isWeakMap",
+      "ranges": [{ "startOffset": 511, "endOffset": 601, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

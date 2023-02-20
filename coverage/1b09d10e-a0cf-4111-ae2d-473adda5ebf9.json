@@ -1,0 +1,11 @@
+{
+  "scriptId": "670",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_Symbol.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 116, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

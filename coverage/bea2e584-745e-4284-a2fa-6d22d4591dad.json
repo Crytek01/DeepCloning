@@ -1,0 +1,16 @@
+{
+  "scriptId": "582",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIndexOf.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 657, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIndexOf",
+      "ranges": [{ "startOffset": 458, "endOffset": 627, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

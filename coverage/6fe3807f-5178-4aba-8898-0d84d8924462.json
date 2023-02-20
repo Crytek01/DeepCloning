@@ -1,0 +1,16 @@
+{
+  "scriptId": "224",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/cloneWith.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1192, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cloneWith",
+      "ranges": [{ "startOffset": 991, "endOffset": 1164, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

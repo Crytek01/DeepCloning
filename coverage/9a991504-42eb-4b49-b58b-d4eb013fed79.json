@@ -1,0 +1,16 @@
+{
+  "scriptId": "391",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/pad.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1287, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pad",
+      "ranges": [{ "startOffset": 898, "endOffset": 1265, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

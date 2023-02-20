@@ -1,0 +1,16 @@
+{
+  "scriptId": "538",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseClone.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5607, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseClone",
+      "ranges": [{ "startOffset": 3399, "endOffset": 5579, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

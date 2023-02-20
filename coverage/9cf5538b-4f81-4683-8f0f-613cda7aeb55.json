@@ -1,0 +1,16 @@
+{
+  "scriptId": "305",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/invert.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1126, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 905, "endOffset": 1079, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

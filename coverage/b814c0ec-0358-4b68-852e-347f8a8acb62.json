@@ -1,0 +1,16 @@
+{
+  "scriptId": "313",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isArrayLikeObject.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 740, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isArrayLikeObject",
+      "ranges": [{ "startOffset": 615, "endOffset": 704, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "709",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createPartial.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1380, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createPartial",
+      "ranges": [{ "startOffset": 692, "endOffset": 1348, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "799",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_metaMap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 141, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

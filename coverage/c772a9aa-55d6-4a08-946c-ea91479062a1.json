@@ -1,0 +1,16 @@
+{
+  "scriptId": "331",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isNil.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 424, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNil",
+      "ranges": [{ "startOffset": 351, "endOffset": 400, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

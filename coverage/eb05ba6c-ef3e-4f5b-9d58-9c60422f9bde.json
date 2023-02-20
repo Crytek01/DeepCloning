@@ -1,0 +1,11 @@
+{
+  "scriptId": "571",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseEachRight.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 489, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "216",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/castArray.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 766, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "castArray",
+      "ranges": [{ "startOffset": 597, "endOffset": 738, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

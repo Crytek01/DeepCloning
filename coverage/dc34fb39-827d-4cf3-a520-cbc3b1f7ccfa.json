@@ -1,0 +1,19 @@
+{
+  "scriptId": "716",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_defineProperty.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 231, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 194, "count": 1 },
+        { "startOffset": 180, "endOffset": 192, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

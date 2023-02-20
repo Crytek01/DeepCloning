@@ -1,0 +1,16 @@
+{
+  "scriptId": "436",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/sortedLastIndexBy.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1084, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sortedLastIndexBy",
+      "ranges": [{ "startOffset": 919, "endOffset": 1048, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

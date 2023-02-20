@@ -1,0 +1,16 @@
+{
+  "scriptId": "637",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_isKey.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 878, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isKey",
+      "ranges": [{ "startOffset": 502, "endOffset": 854, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

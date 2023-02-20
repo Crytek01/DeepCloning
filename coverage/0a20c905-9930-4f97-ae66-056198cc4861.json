@@ -1,0 +1,16 @@
+{
+  "scriptId": "617",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseMatchesProperty.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1127, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseMatchesProperty",
+      "ranges": [{ "startOffset": 677, "endOffset": 1089, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

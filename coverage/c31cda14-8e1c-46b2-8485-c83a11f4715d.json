@@ -1,0 +1,16 @@
+{
+  "scriptId": "682",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseUpdate.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 603, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseUpdate",
+      "ranges": [{ "startOffset": 440, "endOffset": 574, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

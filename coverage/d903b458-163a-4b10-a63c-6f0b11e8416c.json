@@ -1,0 +1,16 @@
+{
+  "scriptId": "605",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIsTypedArray.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2220, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIsTypedArray",
+      "ranges": [{ "startOffset": 2050, "endOffset": 2185, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

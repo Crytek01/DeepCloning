@@ -1,0 +1,16 @@
+{
+  "scriptId": "633",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_basePick.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 499, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "basePick",
+      "ranges": [{ "startOffset": 339, "endOffset": 472, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "445",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/stubFalse.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 278, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stubFalse",
+      "ranges": [{ "startOffset": 210, "endOffset": 250, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

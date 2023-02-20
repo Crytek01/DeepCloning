@@ -1,0 +1,16 @@
+{
+  "scriptId": "631",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createPadding.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1151, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createPadding",
+      "ranges": [{ "startOffset": 704, "endOffset": 1119, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

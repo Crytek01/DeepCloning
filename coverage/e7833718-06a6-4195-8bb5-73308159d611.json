@@ -1,0 +1,16 @@
+{
+  "scriptId": "795",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createCtor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1480, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createCtor",
+      "ranges": [{ "startOffset": 366, "endOffset": 1451, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

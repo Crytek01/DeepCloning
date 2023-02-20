@@ -1,0 +1,16 @@
+{
+  "scriptId": "336",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isPlainObject.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1648, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isPlainObject",
+      "ranges": [{ "startOffset": 1229, "endOffset": 1616, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

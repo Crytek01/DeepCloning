@@ -1,0 +1,19 @@
+{
+  "scriptId": "463",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/toArray.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1404, "count": 1 },
+        { "startOffset": 596, "endOffset": 607, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toArray",
+      "ranges": [{ "startOffset": 986, "endOffset": 1378, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

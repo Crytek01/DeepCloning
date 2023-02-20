@@ -1,0 +1,16 @@
+{
+  "scriptId": "661",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_stringToArray.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 448, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stringToArray",
+      "ranges": [{ "startOffset": 297, "endOffset": 416, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

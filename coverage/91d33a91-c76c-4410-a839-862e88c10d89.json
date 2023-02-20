@@ -1,0 +1,16 @@
+{
+  "scriptId": "286",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/forOwnRight.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 864, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "forOwnRight",
+      "ranges": [{ "startOffset": 724, "endOffset": 834, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

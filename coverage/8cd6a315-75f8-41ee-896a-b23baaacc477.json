@@ -1,0 +1,19 @@
+{
+  "scriptId": "758",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_mapCacheClear.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 391, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapCacheClear",
+      "ranges": [
+        { "startOffset": 209, "endOffset": 359, "count": 1 },
+        { "startOffset": 315, "endOffset": 327, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

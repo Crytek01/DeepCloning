@@ -1,0 +1,16 @@
+{
+  "scriptId": "379",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/noop.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 248, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "noop",
+      "ranges": [{ "startOffset": 177, "endOffset": 225, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

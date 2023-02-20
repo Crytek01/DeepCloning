@@ -1,0 +1,11 @@
+{
+  "scriptId": "784",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/function.default.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 996, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "705",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseToNumber.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 537, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseToNumber",
+      "ranges": [{ "startOffset": 356, "endOffset": 506, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

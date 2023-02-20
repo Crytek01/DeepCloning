@@ -1,0 +1,16 @@
+{
+  "scriptId": "728",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseAggregator.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 744, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseAggregator",
+      "ranges": [{ "startOffset": 494, "endOffset": 711, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

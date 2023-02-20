@@ -1,0 +1,11 @@
+{
+  "scriptId": "839",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_nativeCreate.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 185, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

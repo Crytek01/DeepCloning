@@ -1,0 +1,16 @@
+{
+  "scriptId": "587",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIsArguments.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 486, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIsArguments",
+      "ranges": [{ "startOffset": 355, "endOffset": 452, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

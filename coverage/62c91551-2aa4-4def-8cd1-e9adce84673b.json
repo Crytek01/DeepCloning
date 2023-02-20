@@ -1,0 +1,16 @@
+{
+  "scriptId": "361",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/mapValues.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1336, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapValues",
+      "ranges": [{ "startOffset": 1069, "endOffset": 1308, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

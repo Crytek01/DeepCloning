@@ -1,0 +1,16 @@
+{
+  "scriptId": "524",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseAt.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 567, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseAt",
+      "ranges": [{ "startOffset": 285, "endOffset": 542, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

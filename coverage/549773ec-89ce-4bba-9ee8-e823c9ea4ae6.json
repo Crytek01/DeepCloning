@@ -1,0 +1,16 @@
+{
+  "scriptId": "777",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseToPairs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 535, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseToPairs",
+      "ranges": [{ "startOffset": 388, "endOffset": 505, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

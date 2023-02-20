@@ -1,0 +1,16 @@
+{
+  "scriptId": "763",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_assignMergeValue.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 580, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assignMergeValue",
+      "ranges": [{ "startOffset": 342, "endOffset": 545, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

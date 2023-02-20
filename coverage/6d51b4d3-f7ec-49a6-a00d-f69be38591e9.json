@@ -1,0 +1,16 @@
+{
+  "scriptId": "218",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/chain.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 849, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "chain",
+      "ranges": [{ "startOffset": 726, "endOffset": 825, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

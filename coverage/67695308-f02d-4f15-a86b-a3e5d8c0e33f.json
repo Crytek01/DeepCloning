@@ -1,0 +1,16 @@
+{
+  "scriptId": "526",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_apply.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 712, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "apply",
+      "ranges": [{ "startOffset": 374, "endOffset": 688, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

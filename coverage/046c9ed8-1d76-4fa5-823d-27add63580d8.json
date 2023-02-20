@@ -1,0 +1,16 @@
+{
+  "scriptId": "583",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIntersection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2260, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIntersection",
+      "ranges": [{ "startOffset": 797, "endOffset": 2225, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

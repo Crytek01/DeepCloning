@@ -1,0 +1,35 @@
+{
+  "scriptId": "590",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_nodeUtil.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 993, "count": 1 },
+        { "startOffset": 128, "endOffset": 138, "count": 0 },
+        { "startOffset": 139, "endOffset": 159, "count": 0 },
+        { "startOffset": 160, "endOffset": 170, "count": 0 },
+        { "startOffset": 240, "endOffset": 268, "count": 0 },
+        { "startOffset": 269, "endOffset": 278, "count": 0 },
+        { "startOffset": 279, "endOffset": 298, "count": 0 },
+        { "startOffset": 299, "endOffset": 308, "count": 0 },
+        { "startOffset": 405, "endOffset": 442, "count": 0 },
+        { "startOffset": 529, "endOffset": 550, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 615, "endOffset": 962, "count": 1 },
+        { "startOffset": 704, "endOffset": 725, "count": 0 },
+        { "startOffset": 726, "endOffset": 761, "count": 0 },
+        { "startOffset": 779, "endOffset": 806, "count": 0 },
+        { "startOffset": 889, "endOffset": 911, "count": 0 },
+        { "startOffset": 912, "endOffset": 942, "count": 0 },
+        { "startOffset": 948, "endOffset": 960, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

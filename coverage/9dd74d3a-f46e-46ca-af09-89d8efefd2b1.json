@@ -1,0 +1,16 @@
+{
+  "scriptId": "792",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_composeArgs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1321, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "composeArgs",
+      "ranges": [{ "startOffset": 609, "endOffset": 1291, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

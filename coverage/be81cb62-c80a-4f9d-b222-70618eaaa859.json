@@ -1,0 +1,16 @@
+{
+  "scriptId": "428",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/slice.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1030, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "slice",
+      "ranges": [{ "startOffset": 614, "endOffset": 1006, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

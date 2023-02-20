@@ -1,0 +1,21 @@
+{
+  "scriptId": "397",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/partition.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1516, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1386, "endOffset": 1453, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1455, "endOffset": 1486, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

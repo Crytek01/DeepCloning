@@ -1,0 +1,16 @@
+{
+  "scriptId": "256",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/eq.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 797, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "eq",
+      "ranges": [{ "startOffset": 681, "endOffset": 776, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

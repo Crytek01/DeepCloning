@@ -1,0 +1,16 @@
+{
+  "scriptId": "271",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/flatMap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 810, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "flatMap",
+      "ranges": [{ "startOffset": 690, "endOffset": 784, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

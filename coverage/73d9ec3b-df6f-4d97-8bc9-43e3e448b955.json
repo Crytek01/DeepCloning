@@ -1,0 +1,16 @@
+{
+  "scriptId": "632",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_stringSize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 430, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stringSize",
+      "ranges": [{ "startOffset": 291, "endOffset": 401, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

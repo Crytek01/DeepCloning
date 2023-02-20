@@ -1,0 +1,23 @@
+{
+  "scriptId": "315",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isBuffer.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1112, "count": 1 },
+        { "startOffset": 156, "endOffset": 166, "count": 0 },
+        { "startOffset": 167, "endOffset": 187, "count": 0 },
+        { "startOffset": 188, "endOffset": 198, "count": 0 },
+        { "startOffset": 268, "endOffset": 296, "count": 0 },
+        { "startOffset": 297, "endOffset": 306, "count": 0 },
+        { "startOffset": 307, "endOffset": 326, "count": 0 },
+        { "startOffset": 327, "endOffset": 336, "count": 0 },
+        { "startOffset": 433, "endOffset": 470, "count": 0 },
+        { "startOffset": 534, "endOffset": 547, "count": 0 },
+        { "startOffset": 679, "endOffset": 696, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

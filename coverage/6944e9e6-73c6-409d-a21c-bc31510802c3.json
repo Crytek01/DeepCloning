@@ -1,0 +1,16 @@
+{
+  "scriptId": "451",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/sumBy.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 906, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sumBy",
+      "ranges": [{ "startOffset": 757, "endOffset": 882, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

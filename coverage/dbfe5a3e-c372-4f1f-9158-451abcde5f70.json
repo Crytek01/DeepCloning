@@ -1,0 +1,16 @@
+{
+  "scriptId": "566",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseForOwnRight.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 484, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseForOwnRight",
+      "ranges": [{ "startOffset": 347, "endOffset": 450, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

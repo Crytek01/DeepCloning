@@ -1,0 +1,16 @@
+{
+  "scriptId": "584",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_castArrayLikeObject.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 379, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "castArrayLikeObject",
+      "ranges": [{ "startOffset": 254, "endOffset": 341, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scriptId": "816",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_cloneSymbol.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 522, "count": 1 },
+        { "startOffset": 138, "endOffset": 149, "count": 0 },
+        { "startOffset": 205, "endOffset": 216, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cloneSymbol",
+      "ranges": [{ "startOffset": 394, "endOffset": 492, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

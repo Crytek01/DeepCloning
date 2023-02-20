@@ -1,0 +1,16 @@
+{
+  "scriptId": "233",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/create.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1030, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 854, "endOffset": 1005, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

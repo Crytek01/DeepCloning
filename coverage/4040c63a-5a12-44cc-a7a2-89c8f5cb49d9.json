@@ -1,0 +1,24 @@
+{
+  "scriptId": "714",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_overRest.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1094, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "overRest",
+      "ranges": [
+        { "startOffset": 503, "endOffset": 1067, "count": 50 },
+        { "startOffset": 607, "endOffset": 614, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 629, "endOffset": 1064, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

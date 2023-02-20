@@ -1,0 +1,16 @@
+{
+  "scriptId": "611",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseLodash.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 176, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseLodash",
+      "ranges": [{ "startOffset": 93, "endOffset": 147, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

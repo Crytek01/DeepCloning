@@ -1,0 +1,16 @@
+{
+  "scriptId": "761",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_mapCacheHas.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 380, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapCacheHas",
+      "ranges": [{ "startOffset": 280, "endOffset": 350, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

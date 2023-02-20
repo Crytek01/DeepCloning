@@ -1,0 +1,16 @@
+{
+  "scriptId": "234",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/curry.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1642, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "curry",
+      "ranges": [{ "startOffset": 1315, "endOffset": 1561, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

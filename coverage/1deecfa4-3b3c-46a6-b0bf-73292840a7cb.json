@@ -1,0 +1,16 @@
+{
+  "scriptId": "461",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/thru.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 672, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "thru",
+      "ranges": [{ "startOffset": 583, "endOffset": 649, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

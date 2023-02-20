@@ -1,0 +1,16 @@
+{
+  "scriptId": "274",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/flatten.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 487, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "flatten",
+      "ranges": [{ "startOffset": 339, "endOffset": 461, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scriptId": "591",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseGetTag.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 790, "count": 1 },
+        { "startOffset": 328, "endOffset": 339, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseGetTag",
+      "ranges": [
+        { "startOffset": 534, "endOffset": 761, "count": 474 },
+        { "startOffset": 584, "endOffset": 646, "count": 0 },
+        { "startOffset": 712, "endOffset": 730, "count": 5 },
+        { "startOffset": 735, "endOffset": 758, "count": 469 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

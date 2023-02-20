@@ -1,0 +1,16 @@
+{
+  "scriptId": "771",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_unicodeSize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1640, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "unicodeSize",
+      "ranges": [{ "startOffset": 1468, "endOffset": 1610, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

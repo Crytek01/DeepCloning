@@ -1,0 +1,16 @@
+{
+  "scriptId": "732",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayIncludesWith.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 613, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "arrayIncludesWith",
+      "ranges": [{ "startOffset": 336, "endOffset": 577, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

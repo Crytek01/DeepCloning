@@ -1,0 +1,16 @@
+{
+  "scriptId": "404",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/pullAll.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 708, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pullAll",
+      "ranges": [{ "startOffset": 541, "endOffset": 682, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

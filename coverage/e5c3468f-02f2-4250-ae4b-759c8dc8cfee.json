@@ -1,0 +1,16 @@
+{
+  "scriptId": "535",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseSlice.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 754, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseSlice",
+      "ranges": [{ "startOffset": 294, "endOffset": 726, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "287",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/fromPairs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 594, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fromPairs",
+      "ranges": [{ "startOffset": 340, "endOffset": 566, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

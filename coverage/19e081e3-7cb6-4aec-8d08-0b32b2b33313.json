@@ -1,0 +1,16 @@
+{
+  "scriptId": "352",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/last.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 399, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "last",
+      "ranges": [{ "startOffset": 254, "endOffset": 376, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

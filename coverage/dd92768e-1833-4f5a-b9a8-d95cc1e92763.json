@@ -1,0 +1,16 @@
+{
+  "scriptId": "603",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIsRegExp.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 509, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIsRegExp",
+      "ranges": [{ "startOffset": 382, "endOffset": 478, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

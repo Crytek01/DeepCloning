@@ -7,7 +7,11 @@ import {
   it,
 } from "../dev_depts.ts";
 
-import { _deepCloning } from "../src/deep_cloning/deep_cloning.ts";
+import {
+  _deepCloning,
+  deepCloning,
+  deepCloningSync,
+} from "../src/deep_cloning/deep_cloning.ts";
 
 import {
   isNull,
@@ -17,8 +21,6 @@ import {
   isUndefined,
   not,
 } from "../src/helpers/predicate_helpers.ts";
-
-import { deepCloning, deepCloningSync } from "../src/mod.ts";
 
 describe("not function test", () => {
   it("should return true if expression is false", () => {

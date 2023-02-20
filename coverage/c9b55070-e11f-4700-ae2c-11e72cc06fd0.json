@@ -1,0 +1,11 @@
+{
+  "scriptId": "254",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/entries.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 39, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

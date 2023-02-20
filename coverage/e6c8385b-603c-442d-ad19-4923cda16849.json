@@ -1,0 +1,11 @@
+{
+  "scriptId": "666",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_reInterpolate.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 113, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

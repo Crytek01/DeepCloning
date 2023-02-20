@@ -1,0 +1,16 @@
+{
+  "scriptId": "257",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/escape.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1442, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "escape",
+      "ranges": [{ "startOffset": 1240, "endOffset": 1417, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

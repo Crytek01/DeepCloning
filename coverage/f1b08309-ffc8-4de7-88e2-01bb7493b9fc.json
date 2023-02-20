@@ -1,0 +1,21 @@
+{
+  "scriptId": "613",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createCaseFirst.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 809, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createCaseFirst",
+      "ranges": [{ "startOffset": 367, "endOffset": 775, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 415, "endOffset": 772, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

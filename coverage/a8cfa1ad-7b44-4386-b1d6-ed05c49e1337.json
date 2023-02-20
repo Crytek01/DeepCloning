@@ -1,0 +1,11 @@
+{
+  "scriptId": "356",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/lowerFirst.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 468, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

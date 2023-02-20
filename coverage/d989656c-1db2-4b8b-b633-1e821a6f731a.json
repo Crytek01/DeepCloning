@@ -1,0 +1,19 @@
+{
+  "scriptId": "523",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_isPrototype.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 478, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isPrototype",
+      "ranges": [
+        { "startOffset": 273, "endOffset": 448, "count": 6 },
+        { "startOffset": 404, "endOffset": 418, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

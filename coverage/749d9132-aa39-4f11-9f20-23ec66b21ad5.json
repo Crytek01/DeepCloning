@@ -1,0 +1,16 @@
+{
+  "scriptId": "507",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/wrapperChain.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 704, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wrapperChain",
+      "ranges": [{ "startOffset": 624, "endOffset": 673, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

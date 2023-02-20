@@ -1,0 +1,16 @@
+{
+  "scriptId": "563",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseFindIndex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 764, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseFindIndex",
+      "ranges": [{ "startOffset": 443, "endOffset": 732, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

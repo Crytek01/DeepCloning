@@ -1,0 +1,19 @@
+{
+  "scriptId": "350",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/keys.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 882, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "keys",
+      "ranges": [
+        { "startOffset": 761, "endOffset": 859, "count": 6 },
+        { "startOffset": 814, "endOffset": 837, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

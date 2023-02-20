@@ -1,0 +1,16 @@
+{
+  "scriptId": "608",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseIsNaN.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 294, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseIsNaN",
+      "ranges": [{ "startOffset": 211, "endOffset": 266, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

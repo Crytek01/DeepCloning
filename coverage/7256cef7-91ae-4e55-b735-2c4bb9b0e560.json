@@ -1,0 +1,16 @@
+{
+  "scriptId": "335",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isObjectLike.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 612, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isObjectLike",
+      "ranges": [{ "startOffset": 497, "endOffset": 581, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "580",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseHasIn.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 372, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseHasIn",
+      "ranges": [{ "startOffset": 259, "endOffset": 344, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

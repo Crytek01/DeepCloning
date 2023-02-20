@@ -1,0 +1,16 @@
+{
+  "scriptId": "589",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseUnary.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 330, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseUnary",
+      "ranges": [{ "startOffset": 218, "endOffset": 302, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

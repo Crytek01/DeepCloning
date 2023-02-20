@@ -1,0 +1,16 @@
+{
+  "scriptId": "543",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayMap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 554, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "arrayMap",
+      "ranges": [{ "startOffset": 283, "endOffset": 527, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "683",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_asciiWords.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 402, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "asciiWords",
+      "ranges": [{ "startOffset": 300, "endOffset": 373, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

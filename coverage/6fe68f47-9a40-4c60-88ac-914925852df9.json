@@ -1,0 +1,11 @@
+{
+  "scriptId": "689",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/array.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3555, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

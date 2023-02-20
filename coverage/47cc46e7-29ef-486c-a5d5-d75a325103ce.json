@@ -1,0 +1,16 @@
+{
+  "scriptId": "440",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/split.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1548, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "split",
+      "ranges": [{ "startOffset": 912, "endOffset": 1524, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

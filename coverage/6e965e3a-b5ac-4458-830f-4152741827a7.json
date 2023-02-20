@@ -1,0 +1,21 @@
+{
+  "scriptId": "530",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayEach.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 535, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "arrayEach",
+      "ranges": [
+        { "startOffset": 274, "endOffset": 507, "count": 8 },
+        { "startOffset": 359, "endOffset": 362, "count": 0 },
+        { "startOffset": 407, "endOffset": 489, "count": 324 },
+        { "startOffset": 465, "endOffset": 485, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

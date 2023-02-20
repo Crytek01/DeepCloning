@@ -1,0 +1,16 @@
+{
+  "scriptId": "283",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/forIn.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1063, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "forIn",
+      "ranges": [{ "startOffset": 911, "endOffset": 1039, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

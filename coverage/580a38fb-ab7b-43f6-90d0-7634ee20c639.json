@@ -1,0 +1,19 @@
+{
+  "scriptId": "780",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createSet.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 499, "count": 1 },
+        { "startOffset": 415, "endOffset": 421, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createSet",
+      "ranges": [{ "startOffset": 424, "endOffset": 470, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

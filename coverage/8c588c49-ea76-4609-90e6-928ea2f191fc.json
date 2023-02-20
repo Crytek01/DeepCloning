@@ -1,0 +1,16 @@
+{
+  "scriptId": "501",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/values.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 731, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "values",
+      "ranges": [{ "startOffset": 614, "endOffset": 706, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

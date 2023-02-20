@@ -1,0 +1,16 @@
+{
+  "scriptId": "381",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/nth.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 669, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "nth",
+      "ranges": [{ "startOffset": 544, "endOffset": 647, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

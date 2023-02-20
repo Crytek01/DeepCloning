@@ -1,0 +1,16 @@
+{
+  "scriptId": "408",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/random.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2369, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "random",
+      "ranges": [{ "startOffset": 1385, "endOffset": 2344, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

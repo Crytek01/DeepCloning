@@ -1,0 +1,11 @@
+{
+  "scriptId": "471",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/toPairs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 697, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "270",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/first.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 36, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

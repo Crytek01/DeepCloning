@@ -1,0 +1,16 @@
+{
+  "scriptId": "532",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_toKey.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 521, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toKey",
+      "ranges": [{ "startOffset": 298, "endOffset": 497, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

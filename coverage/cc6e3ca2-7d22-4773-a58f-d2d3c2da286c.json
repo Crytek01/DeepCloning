@@ -1,0 +1,16 @@
+{
+  "scriptId": "724",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_initCloneByTag.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2259, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "initCloneByTag",
+      "ranges": [{ "startOffset": 1454, "endOffset": 2226, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

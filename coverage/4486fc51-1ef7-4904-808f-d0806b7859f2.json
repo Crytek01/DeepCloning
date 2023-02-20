@@ -1,0 +1,16 @@
+{
+  "scriptId": "220",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/clamp.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 888, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clamp",
+      "ranges": [{ "startOffset": 491, "endOffset": 864, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

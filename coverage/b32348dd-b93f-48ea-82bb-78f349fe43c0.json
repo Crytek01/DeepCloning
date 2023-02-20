@@ -1,0 +1,16 @@
+{
+  "scriptId": "559",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseFill.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 841, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseFill",
+      "ranges": [{ "startOffset": 410, "endOffset": 814, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

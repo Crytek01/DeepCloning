@@ -1,0 +1,16 @@
+{
+  "scriptId": "764",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseMergeDeep.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3067, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseMergeDeep",
+      "ranges": [{ "startOffset": 1316, "endOffset": 3035, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

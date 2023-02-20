@@ -1,0 +1,16 @@
+{
+  "scriptId": "586",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseInvoke.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 787, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseInvoke",
+      "ranges": [{ "startOffset": 520, "endOffset": 758, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "410",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/rangeRight.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 860, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

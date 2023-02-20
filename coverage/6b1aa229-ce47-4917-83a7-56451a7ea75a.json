@@ -1,0 +1,21 @@
+{
+  "scriptId": "534",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createRound.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1191, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createRound",
+      "ranges": [{ "startOffset": 498, "endOffset": 1161, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 573, "endOffset": 1158, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

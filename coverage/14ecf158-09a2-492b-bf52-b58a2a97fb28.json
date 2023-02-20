@@ -1,0 +1,16 @@
+{
+  "scriptId": "333",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isNumber.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 884, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNumber",
+      "ranges": [{ "startOffset": 731, "endOffset": 857, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

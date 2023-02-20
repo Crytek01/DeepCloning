@@ -1,0 +1,16 @@
+{
+  "scriptId": "545",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseConforms.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 482, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseConforms",
+      "ranges": [{ "startOffset": 307, "endOffset": 451, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

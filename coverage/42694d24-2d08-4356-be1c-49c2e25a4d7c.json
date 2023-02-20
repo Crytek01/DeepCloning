@@ -1,0 +1,16 @@
+{
+  "scriptId": "561",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseFilter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 588, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseFilter",
+      "ranges": [{ "startOffset": 332, "endOffset": 559, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

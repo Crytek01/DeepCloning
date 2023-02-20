@@ -1,0 +1,16 @@
+{
+  "scriptId": "505",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/wrap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 869, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wrap",
+      "ranges": [{ "startOffset": 765, "endOffset": 846, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

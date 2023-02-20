@@ -1,0 +1,16 @@
+{
+  "scriptId": "627",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseOrderBy.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1556, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseOrderBy",
+      "ranges": [{ "startOffset": 714, "endOffset": 1526, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

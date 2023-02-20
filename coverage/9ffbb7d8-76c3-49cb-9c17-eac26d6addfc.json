@@ -1,0 +1,16 @@
+{
+  "scriptId": "773",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseRange.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 848, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseRange",
+      "ranges": [{ "startOffset": 539, "endOffset": 820, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

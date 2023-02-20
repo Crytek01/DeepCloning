@@ -1,0 +1,16 @@
+{
+  "scriptId": "607",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseKeysIn.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 868, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseKeysIn",
+      "ranges": [{ "startOffset": 523, "endOffset": 839, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

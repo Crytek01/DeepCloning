@@ -1,0 +1,11 @@
+{
+  "scriptId": "498",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/upperFirst.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 468, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

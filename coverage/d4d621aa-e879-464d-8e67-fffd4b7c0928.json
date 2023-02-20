@@ -1,0 +1,16 @@
+{
+  "scriptId": "432",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/sortedIndex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 624, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sortedIndex",
+      "ranges": [{ "startOffset": 516, "endOffset": 594, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "319",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isEqual.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 984, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isEqual",
+      "ranges": [{ "startOffset": 888, "endOffset": 958, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

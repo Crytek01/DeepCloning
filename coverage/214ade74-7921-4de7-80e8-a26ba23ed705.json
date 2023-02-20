@@ -1,0 +1,11 @@
+{
+  "scriptId": "264",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/find.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1302, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

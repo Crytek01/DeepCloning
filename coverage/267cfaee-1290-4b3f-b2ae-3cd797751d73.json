@@ -1,0 +1,16 @@
+{
+  "scriptId": "485",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/union.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 747, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 633, "endOffset": 721, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

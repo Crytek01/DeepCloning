@@ -1,0 +1,16 @@
+{
+  "scriptId": "575",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseGet.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 614, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseGet",
+      "ranges": [{ "startOffset": 324, "endOffset": 588, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

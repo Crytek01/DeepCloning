@@ -1,0 +1,16 @@
+{
+  "scriptId": "548",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseAssign.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 468, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseAssign",
+      "ranges": [{ "startOffset": 339, "endOffset": 439, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

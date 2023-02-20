@@ -1,0 +1,16 @@
+{
+  "scriptId": "796",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createRecurry.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2115, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createRecurry",
+      "ranges": [{ "startOffset": 1137, "endOffset": 2083, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

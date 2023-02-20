@@ -1,0 +1,16 @@
+{
+  "scriptId": "525",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_flatRest.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 455, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "flatRest",
+      "ranges": [{ "startOffset": 332, "endOffset": 428, "count": 12 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "scriptId": "324",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isInteger.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 667, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isInteger",
+      "ranges": [{ "startOffset": 546, "endOffset": 639, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

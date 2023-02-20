@@ -1,0 +1,16 @@
+{
+  "scriptId": "610",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_LazyWrapper.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 771, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "LazyWrapper",
+      "ranges": [{ "startOffset": 353, "endOffset": 577, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

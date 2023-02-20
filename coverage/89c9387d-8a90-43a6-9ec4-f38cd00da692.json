@@ -1,0 +1,16 @@
+{
+  "scriptId": "679",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_trimmedEndIndex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 513, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "trimmedEndIndex",
+      "ranges": [{ "startOffset": 333, "endOffset": 479, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

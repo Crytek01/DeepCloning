@@ -1,0 +1,11 @@
+{
+  "scriptId": "754",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_coreJsData.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 155, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

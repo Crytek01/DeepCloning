@@ -1,0 +1,16 @@
+{
+  "scriptId": "510",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/xor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 809, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 707, "endOffset": 785, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

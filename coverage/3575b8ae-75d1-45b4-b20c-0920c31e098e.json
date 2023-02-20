@@ -1,0 +1,16 @@
+{
+  "scriptId": "215",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/capitalize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 527, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "capitalize",
+      "ranges": [{ "startOffset": 414, "endOffset": 498, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

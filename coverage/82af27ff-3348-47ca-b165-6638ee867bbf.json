@@ -1,0 +1,16 @@
+{
+  "scriptId": "465",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/toInteger.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 758, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toInteger",
+      "ranges": [{ "startOffset": 562, "endOffset": 730, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

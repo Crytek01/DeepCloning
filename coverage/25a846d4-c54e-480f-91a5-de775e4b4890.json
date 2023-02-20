@@ -1,0 +1,16 @@
+{
+  "scriptId": "615",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseMap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 666, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseMap",
+      "ranges": [{ "startOffset": 370, "endOffset": 640, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

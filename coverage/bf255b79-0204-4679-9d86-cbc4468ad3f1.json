@@ -1,0 +1,16 @@
+{
+  "scriptId": "400",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/plant.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1014, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wrapperPlant",
+      "ranges": [{ "startOffset": 570, "endOffset": 983, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

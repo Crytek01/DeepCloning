@@ -1,0 +1,16 @@
+{
+  "scriptId": "237",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/deburr.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1613, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deburr",
+      "ranges": [{ "startOffset": 1449, "endOffset": 1588, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

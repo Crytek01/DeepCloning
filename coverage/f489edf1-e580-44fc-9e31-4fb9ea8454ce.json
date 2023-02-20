@@ -1,0 +1,16 @@
+{
+  "scriptId": "378",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/next.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 834, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wrapperNext",
+      "ranges": [{ "startOffset": 523, "endOffset": 804, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

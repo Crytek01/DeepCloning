@@ -1,0 +1,16 @@
+{
+  "scriptId": "554",
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseWhile.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 931, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "baseWhile",
+      "ranges": [{ "startOffset": 494, "endOffset": 903, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
